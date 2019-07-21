@@ -1,9 +1,9 @@
-<p align="center"><img alt="<lalala>Project Driven</lalala>" src="https://img.hacpai.com/file/2019/07/大白-10b16219.png"></p><h2 align="center">
-<lalala>Project Driven</lalala>
+<p align="center"><img alt="Project Driven" src="https://img.hacpai.com/file/2019/07/大白-10b16219.png"></p><h2 align="center">
+Project Driven
 </h2>
 
 <h4 align="center"></h4>
-<p align="center"><a title="<lalala>Project Driven</lalala>" target="_blank" href="https://github.com/etscript/solo-blog"><img src="https://img.shields.io/github/last-commit/etscript/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="Project Driven" target="_blank" href="https://github.com/etscript/solo-blog"><img src="https://img.shields.io/github/last-commit/etscript/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/etscript/solo-blog"><img src="https://img.shields.io/github/repo-size/etscript/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/etscript/solo-blog.svg"></a></p>
